@@ -71,8 +71,6 @@ The experiment aimed to:
 
 ## 6. Screenshot Evidence
 
-Screenshots are stored in the `images/` folder for reference.
-
 ### VPN Connected
 1. **VPN Interface** – [`vpn_connected_ui.png`](vpn_connected_ui.png)  
 2. **Speed Test** – [`vpn_connected_speed.png`](vpn_connected_speed.png)  
@@ -102,6 +100,3 @@ Screenshots are stored in the `images/` folder for reference.
 - Remember: VPN is not full anonymity — combine with browser privacy practices.
 
 ---
-
-## License
-This project is licensed under the MIT License.
