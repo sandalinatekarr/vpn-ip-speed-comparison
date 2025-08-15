@@ -74,14 +74,14 @@ The experiment aimed to:
 Screenshots are stored in the `images/` folder for reference.
 
 ### VPN Connected
-1. **VPN Interface** – [`vpn_connected_ui.png`](images/vpn_connected_ui.png)  
-2. **Speed Test** – [`vpn_connected_speed.png`](images/vpn_connected_speed.png)  
-3. **IP Information** – [`vpn_connected_ip.png`](images/vpn_connected_ip.png)  
+1. **VPN Interface** – [`vpn_connected_ui.png`](vpn_connected_ui.png)  
+2. **Speed Test** – [`vpn_connected_speed.png`](vpn_connected_speed.png)  
+3. **IP Information** – [`vpn_connected_ip.png`](vpn_connected_ip.png)  
 
 ### VPN Disconnected
-4. **VPN Interface** – [`vpn_disconnected_ui.png`](images/vpn_disconnected_ui.png)  
-5. **Speed Test** – [`vpn_disconnected_speed.png`](images/vpn_disconnected_speed.png)  
-6. **IP Information** – [`vpn_disconnected_ip.png`](images/vpn_disconnected_ip.png)  
+4. **VPN Interface** – [`vpn_disconnected_ui.png`](vpn_disconnected_ui.png)  
+5. **Speed Test** – [`vpn_disconnected_speed.png`](vpn_disconnected_speed.png)  
+6. **IP Information** – [`vpn_disconnected_ip.png`](vpn_disconnected_ip.png)  
 
 ---
 
