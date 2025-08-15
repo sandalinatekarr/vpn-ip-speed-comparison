@@ -1,10 +1,5 @@
 # VPN Privacy Lab Report – Speed & IP Comparison
 
-This repository contains the results of a VPN privacy lab experiment conducted on **15 Aug 2025** by **Sandali Natekar (Roll No. 21CE1152)**.  
-The purpose of this experiment was to evaluate how a VPN (ProtonVPN Free) changes public IP information, location, and internet speed when connected vs. disconnected.
-
----
-
 ## 1. Objective
 
 The experiment aimed to:
